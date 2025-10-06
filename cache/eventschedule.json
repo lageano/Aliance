@@ -1,0 +1,27 @@
+{
+    "eventlist": [
+        {
+            "colordark": "#235c00",
+            "colorlight": "#2d7400",
+            "description": "Otserver br example 1 description double exp and a half, double loot !chance!, regular spawn and double skill",
+            "displaypriority": 6,
+            "enddate": 1748574000,
+            "isseasonal": false,
+            "name": "Double Skill",
+            "specialevent": 0,
+            "startdate": 1748401200
+        },
+        {
+            "colordark": "#735D10",
+            "colorlight": "#8B6D05",
+            "description": "Otserver br example 2 description 50% less exp, triple loot !chance!, 50% faster spawn and regular skill",
+            "displaypriority": 6,
+            "enddate": 1749006000,
+            "isseasonal": false,
+            "name": "Double Loot",
+            "specialevent": 0,
+            "startdate": 1748746800
+        }
+    ],
+    "lastupdatetimestamp": 1759450975
+}
